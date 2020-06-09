@@ -9,5 +9,5 @@ Some service providers to enable a Laravel project structure that is grouped by 
 ## Installation
 
 ```bash
-composer require optimus/distributed-laravel 0.1.*
+composer require moova/optimus-distributed-laravel dev-master
 ```
