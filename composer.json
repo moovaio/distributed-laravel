@@ -1,5 +1,7 @@
 {
-    "name": "optimus/distributed-laravel",
+    "name": "moova/optimus-distributed-laravel",
+    "description":"moova.io fork for esbenp/distributed-laravel package",
+    "homepage":"https://github.com/moovaio/distributed-laravel",
     "autoload": {
         "psr-4": {
             "Optimus\\Api\\System\\": "src/"
